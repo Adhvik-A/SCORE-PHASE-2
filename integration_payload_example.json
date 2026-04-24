@@ -1,0 +1,83 @@
+{
+  "match_id": "IND_AUS_001",
+  "venue": "Wankhede Stadium",
+
+  "batting_team": "India",
+  "bowling_team": "Australia",
+
+  "innings": {
+    "innings_id": "INN_1",
+    "innings_number": 1,
+
+    "events": [
+      {
+        "player_id": "P1",
+        "bowler_id": "B1",
+        "batter": "Rohit",
+        "bowler": "Starc",
+        "runs_off_bat": 1,
+        "extras": 0,
+        "extra_type": null,
+        "is_legal_delivery": true,
+        "wicket_fell": false
+      },
+      {
+        "player_id": "P2",
+        "bowler_id": "B1",
+        "batter": "Gill",
+        "bowler": "Starc",
+        "runs_off_bat": 4,
+        "extras": 0,
+        "extra_type": null,
+        "is_legal_delivery": true,
+        "wicket_fell": false
+      },
+      {
+        "player_id": "P2",
+        "bowler_id": "B1",
+        "batter": "Gill",
+        "bowler": "Starc",
+        "runs_off_bat": 0,
+        "extras": 1,
+        "extra_type": "wide",
+        "is_legal_delivery": false,
+        "wicket_fell": false
+      },
+      {
+        "player_id": "P3",
+        "bowler_id": "B2",
+        "batter": "Kohli",
+        "bowler": "Cummins",
+        "runs_off_bat": 6,
+        "extras": 0,
+        "extra_type": null,
+        "is_legal_delivery": true,
+        "wicket_fell": false
+      },
+      {
+        "player_id": "P3",
+        "bowler_id": "B2",
+        "batter": "Kohli",
+        "bowler": "Cummins",
+        "runs_off_bat": 0,
+        "extras": 0,
+        "extra_type": null,
+        "is_legal_delivery": true,
+        "wicket_fell": true
+      },
+      {
+        "player_id": "P4",
+        "bowler_id": "B2",
+        "batter": "Rahul",
+        "bowler": "Cummins",
+        "runs_off_bat": 2,
+        "extras": 0,
+        "extra_type": null,
+        "is_legal_delivery": true,
+        "wicket_fell": false
+      }
+    ]
+  },
+
+  "target": null
+}
